@@ -1,13 +1,13 @@
-<h1 align="center">Hey, I'm [Your Name] 👋</h1>
+<h1 align="center">Hey, I'm Nirmal Manoj 👋</h1>
 
 <p align="center">
   <em>Cybersecurity learner. Breaking things to understand them. Building habits that make me dangerous (ethically).</em>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://tryhackme.com/p/yourusername"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/niirmalmanoj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://tryhackme.com/p/nirmalmanojk7"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+  <a href="mailto:nirmalmanojk7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -64,27 +64,3 @@ Python Scripting ██████░░░░   Learning
 
 ---
 
-## Currently Reading / Watching
-
-- 📖 *The Web Application Hacker's Handbook*
-- 🖥️ PortSwigger Web Security Academy
-- 🎧 Darknet Diaries (if you're into security storytelling, this is it)
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%"/>
-</p>
-
----
-
-<p align="center">
-  <em>"The quieter you become, the more you are able to hear." — Kali Linux motto</em>
-</p>
-
-<p align="center">
-  Always learning. Always curious. Let's connect.
-</p>
